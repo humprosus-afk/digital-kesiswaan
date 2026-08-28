@@ -1,1 +1,9 @@
 /* CSS Digital Kesiswaan */
+
+body{
+  font-family:Arial, san-serif;
+  margin:40px;
+}
+h1{
+  color:#0F7B0F;
+}
